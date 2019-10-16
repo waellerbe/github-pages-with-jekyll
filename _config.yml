@@ -1,7 +1,7 @@
 title: GitHub Jekyll Page
 author: William A Ellerbe
 email: waellerbe@gmail.com
-theme: mimima # Setting up the theme
+
 description: > # this means to ignore newlines until "baseurl:"
   My GitHub page is coming along. With this step we need to edit
   a few lines within the _config.yml file. I understand that
