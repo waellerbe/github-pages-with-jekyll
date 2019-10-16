@@ -1,3 +1,12 @@
-# Welcome to my blog
+# This is My Blog
 
-I'm glad you are here. I plan to talk about ...
+|  |
+| :---: |
+| Today I am learning how to build |
+| GitHub pages with Jekyll
+| New blog updates will follow |
+| Thank you for stopping by |
+
+
+
+Solution powered by GitHub
